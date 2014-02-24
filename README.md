@@ -1,4 +1,0 @@
-guidor
-======
-
-GUIDOR
